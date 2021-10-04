@@ -93,3 +93,4 @@ C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Quiq
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\QuiqBlog.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\bin\Debug\netcoreapp3.1\QuiqBlog.Data.dll
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\bin\Debug\netcoreapp3.1\QuiqBlog.Data.pdb
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout.cshtml.g.cs
