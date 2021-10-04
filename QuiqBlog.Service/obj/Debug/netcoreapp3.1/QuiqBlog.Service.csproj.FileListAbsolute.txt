@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\QuiqBlog.Service.deps.json
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\QuiqBlog.Service.dll
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\QuiqBlog.Service.pdb
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.dll
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\QuiqBlog.Service.pdb
