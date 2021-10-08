@@ -441,3 +441,8 @@ C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razo
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_IdentityLayout.cshtml.g.cs
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminFooter\Default.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminSideNav\Default.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminTopNav\Default.cshtml.g.cs
