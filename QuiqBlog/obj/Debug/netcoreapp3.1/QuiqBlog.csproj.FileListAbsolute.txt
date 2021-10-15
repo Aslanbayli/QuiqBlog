@@ -449,3 +449,6 @@ C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razo
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
 C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\_Layout.cshtml.g.cs

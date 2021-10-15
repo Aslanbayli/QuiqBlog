@@ -23,5 +23,10 @@ namespace QuiqBlog.Configuration
             serviceCollection.AddControllersWithViews().AddRazorRuntimeCompilation();
             serviceCollection.AddRazorPages();
         }
+
+        public static void AddCustomServices(this IServiceCollection serviceCollection)
+        {
+           
+        }
     }
 }
