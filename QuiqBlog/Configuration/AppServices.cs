@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using QuiqBlog.Data;
 using QuiqBlog.Data.Models;
+using QuiqBlog.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,8 +19,14 @@ namespace QuiqBlog.Configuration
             serviceCollection.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     configuration.GetConnectionString("DefaultConnection")));
+
             serviceCollection.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            // Add service for repos
+            serviceCollection.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            serviceCollection.AddTransient<IUnitOfWork, UnitOfWork>();
+
             serviceCollection.AddControllersWithViews().AddRazorRuntimeCompilation();
             serviceCollection.AddRazorPages();
         }
