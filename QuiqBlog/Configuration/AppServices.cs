@@ -27,6 +27,9 @@ namespace QuiqBlog.Configuration
             serviceCollection.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             serviceCollection.AddTransient<IUnitOfWork, UnitOfWork>();
 
+            // AutoMapper
+            serviceCollection.AddAutoMapper(typeof(Startup));
+
             serviceCollection.AddControllersWithViews().AddRazorRuntimeCompilation();
             serviceCollection.AddRazorPages();
         }
