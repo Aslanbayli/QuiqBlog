@@ -8,6 +8,6 @@ namespace QuiqBlog.ViewModels
 {
     public class PostTranslationViewModel
     {
-       
+       public PostTranslation PostTranslation { get; set; }
     }
 }
