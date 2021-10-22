@@ -1,4 +1,6 @@
 ﻿using QuiqBlog.Data;
+using QuiqBlog.Data.Models;
+using QuiqBlog.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,12 +12,14 @@ namespace QuiqBlog.Repositories
     {
 
         public readonly ApplicationDbContext _context;
+        public IGenericRepository<PostTranslation> Posts {  get; }
 
-        public UnitOfWork(ApplicationDbContext applicationDbContext)
+        public UnitOfWork(ApplicationDbContext applicationDbContext, IGenericRepository<PostTranslation> genericRepository)
         {
             this._context = applicationDbContext;
-
+            this.Posts = genericRepository;
         }
+
 
         public async Task<int> Complete()
         {

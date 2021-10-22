@@ -486,9 +486,6 @@ C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Raz
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_Layout.cshtml.g.cs
-C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
-C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
-C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\_Layout.cshtml.g.cs
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout.cshtml.g.cs
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\PostTranslation\Create.cshtml.g.cs
@@ -921,3 +918,6 @@ C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\bin\Debug\netcoreapp3.1\Qui
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\QuiqBlog.Views.pdb
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\QuiqBlog.csproj.CopyComplete
 C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\QuiqBlog.genruntimeconfig.cache
+C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
+C:\Users\alias\Desktop\Projects\C#\QuiqBlog\QuiqBlog\obj\Debug\netcoreapp3.1\Razor\Views\Post\_Layout.cshtml.g.cs
