@@ -20,3 +20,29 @@ Before proceeding make sure you have `C#` and `.NET Core` installed on your syst
 
 ## How to use
 
+Once you run the application, you will be greeted by the following home page.
+
+![image](https://github.com/Aslanbayli/QuiqBlog/assets/48028559/d9c2ea46-b273-430c-82da-884e587428b3)
+
+**From there you can:**
+
+### Create an account
+
+![3](https://github.com/Aslanbayli/QuiqBlog/assets/48028559/9c190fbd-8f6a-42a1-92cc-3add12f0be65)
+
+### Login to your account
+
+![2](https://github.com/Aslanbayli/QuiqBlog/assets/48028559/c65cd060-1e6f-47e3-9f5d-241fcabbdccd)
+
+### Once you login you will be able to see your name at the top of the web page
+
+![image](https://github.com/Aslanbayli/QuiqBlog/assets/48028559/7442fee8-1fa3-42db-8b4e-0fc4bfd8b352)
+
+> Note that if you don't create a strong enough of a password you won't be able to register. The password should contain at least one number, lowercase letter, uppercase letter, and a special character
+
+### Navigate to your admin dashboard and click "Create Post" on the left menu bar
+
+![1](https://github.com/Aslanbayli/QuiqBlog/assets/48028559/3cea269a-b9ab-44df-b283-4f512bfd0ab3)
+
+
+
